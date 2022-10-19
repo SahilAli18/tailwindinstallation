@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.mainhome{
+    background-color: #ff6b81;
+}
+.ullinks li{
+    margin-left: 30px;
+}
+
+.ullinks a{
+    color: white;
+    text-decoration: none;
+}
+.smoke{
+    background-color: whitesmoke;
+}
+.smoke .contain{
+    text-align: center
+}
+.smoke .contain h3{
+    font-size: 12px;
+    color: #ff6b81;
+}
+.smoke .container h1{
+    font-size: 16px;
+}
+.smo{
+    background-color: whitesmoke;
+}
+.pl{
+    padding-left: 25rem;
+}
